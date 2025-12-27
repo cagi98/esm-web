@@ -1,6 +1,6 @@
 {
-    "name": "efficient_sales_and_management",
-    "short_name": "efficient_sales_and_management",
+    "name": "sellio_pilot",
+    "short_name": "sellio_pilot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
